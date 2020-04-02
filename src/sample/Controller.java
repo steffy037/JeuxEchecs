@@ -13,8 +13,7 @@ public class Controller implements Initializable {
 
     private PositionDepart positionDepart;
 
-    //@FXML
-    //private Im textFieldVisuel;
+
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
